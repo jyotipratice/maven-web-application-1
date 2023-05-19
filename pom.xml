@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.16.129:9980/mithuntechnologies/repository/citibank-release/</url>
+	      <url>http://34.221.4.162:8081/repository/flipkart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
